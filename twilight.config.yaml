@@ -34,7 +34,7 @@ site:
     # 字体配置
     font:
         # 示例字体配置 - Zen Maru Gothic
-        "Example - MiSans Normal":
+        "Example - MiSans":
             # 字体源 (字体 CSS 链接 | 字体文件路径)
             src: "/src/MiSans-Normal.woff2"
             # 字体名 (font-family)
@@ -204,17 +204,17 @@ sidebar:
         left:
             - # 组件 - 资料 (预设)
                 # 类型
-                输入: "profile"
+                type: "profile"
                 # 位置策略 ("top" 顶部固定 | "sticky" 粘性)
                 position: "top"
             - # 组件 - 公告 (预设)
                 # 类型
-                输入: "announcement"
+                type: "announcement"
                 # 位置策略 ("top" 顶部固定 | "sticky" 粘性)
                 position: "top"
             - # 组件 - 文章类别 (预设)
                 # 类型
-                输入: "categories"
+                type: "categories"
                 # 位置策略 ("top" 顶部固定 | "sticky" 粘性)
                 position: "sticky"
                 # 响应式配置
@@ -225,7 +225,7 @@ sidebar:
                 depth: 3
             - # 组件 - 文章标签 (预设)
                 # 类型
-                输入: "tags"
+                type: "tags"
                 # 位置策略 ("top" 顶部固定 | "sticky" 粘性)
                 position: "sticky"
                 # 响应式配置
@@ -236,14 +236,14 @@ sidebar:
         right:
             - # 组件 - 文章目录 (预设)
                 # 类型
-                输入: "toc"
+                type: "toc"
                 # 位置策略 ("top" 顶部固定 | "sticky" 粘性)
                 position: "sticky"
                 # 目录深度 (1-6，1 表示只显示 h1 标题，2 表示显示 h1 和 h2 标题，依此类推)
                 depth: 3
             - # 组件 - 文章统计 (预设)
                 # 类型
-                输入: "statistics"
+                type: "statistics"
                 # 位置策略 ("top" 顶部固定 | "sticky" 粘性)
                 position: "sticky"
                 # 页面可见性配置
@@ -307,7 +307,7 @@ post:
         # 许可证链接
         url: "https://creativecommons.org/licenses/by-nc-sa/4.0/"
     # 评论配置
-    评论:
+    comment:
         # 启用评论功能
         enable: false
         # Twikoo 评论系统配置
@@ -378,7 +378,7 @@ musicPlayer:
         # 音乐平台
         server: "netease"
         # 类型 ("playlist" 歌单 | "song" 单曲)
-        输入: "playlist"
+        type: "playlist"
         # 资源 ID
         id: "5097031404"
     # local 模式专属配置
