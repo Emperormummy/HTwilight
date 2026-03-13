@@ -16,6 +16,13 @@
             "tags": ["human"]
         },
         {
+            "src": "./PCLCE_大图标.png",
+            "alt": "PCLCE",
+            "title": "PCLCE",
+            "description": "This is a logo for pclce",
+            "tags": ["PCLCE"]
+        },
+        {
             "src": "https://picsum.photos/800/600?random=2",
             "alt": "random image",
             "title": "Random Image",
