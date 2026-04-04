@@ -19,7 +19,7 @@ published: 2023-10-19
 // ...
 ---
 
-<iframe width="100%" height="468" src="https://www.youtube.com/embed/yrn7eInApnc?si=gGZeFbPcfMpJ1uV3_" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="468" src="https://www.youtube.com/embed/bkyA02Dx__w?si=z5_c9TcWiluR3-8o" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
 ```
 <div class="svg-container">
 <svg width="auto" height="auto" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1024 1024">
@@ -116,4 +116,4 @@ published: 2023-10-19
 
 ### Bilibili
 
-<iframe width="100%" height="468" src="//player.bilibili.com/player.html?bvid=BV14QpMeSEuD&p=1&autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" &autoplay=0> </iframe>
+<iframe width="100%" height="468" src="//player.bilibili.com/player.html?bvid=BV165TLzCEox&p=1&autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" &autoplay=0> </iframe>
