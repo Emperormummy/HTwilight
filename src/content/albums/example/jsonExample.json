@@ -16,6 +16,13 @@
             "tags": ["human"]
         },
         {
+            "src": "./PCLCE.png",
+            "alt": "PCLCE",
+            "title": "PCLCE",
+            "description": "This is PCLCE",
+            "tags": ["minecraft"]
+        },
+        {
             "src": "https://picsum.photos/800/600?random=2",
             "alt": "random image",
             "title": "Random Image",
