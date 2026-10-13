@@ -433,6 +433,15 @@ musicPlayer:
     local:
         # 播放列表
         playlist:
+            - # Twilight
+                id: 1
+                title: "Twilight"
+                artist: "等离子天啓"
+                cover: "https://i2.hdslb.com/bfs/face/9cb077205e406c1bb013661d782bc656034f5265.jpg@128w_128h_1c_1s.webp"
+                url: "assets/music/Twilight.mp3"
+                lrc: "assets/music/Twilight.lrc"
+                duration: 262
+                
             - # 列表示例
                 # 序号
                 id: 2
@@ -449,12 +458,6 @@ musicPlayer:
                 # 时长
                 duration: 146
 
-            - # Twilight
-                id: 1
-                title: "Twilight"
-                artist: "等离子天啓"
-                url: "assets/music/Twilight.mp3"
-                duration: 262
     # 是否自动播放
     autoplay: true
 
