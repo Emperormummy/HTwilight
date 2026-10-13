@@ -435,7 +435,7 @@ musicPlayer:
         playlist:
             - # 列表示例
                 # 序号
-                id: 1
+                id: 2
                 # 标题
                 title: "深海之息"
                 # 作者
@@ -448,6 +448,13 @@ musicPlayer:
                 lrc: "assets/music/深海之息.lrc"
                 # 时长
                 duration: 146
+
+                - # Twilight
+                id: 1
+                title: "Twilight"
+                artist: "等离子天啓"
+                url: "assets/music/Twilight.mp3"
+                duration: 262
     # 是否自动播放
     autoplay: true
 
