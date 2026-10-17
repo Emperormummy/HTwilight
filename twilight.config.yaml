@@ -8,7 +8,7 @@ site:
     # 站点副标题
     subtitle: "Blog Template"
     # 语言配置
-    lang: "en"
+    lang: "zh-hans"
     # 翻译配置
     translate:
         # 启用翻译功能
@@ -418,7 +418,7 @@ musicPlayer:
     # 启用音乐播放器功能
     enable: true
     # 默认模式 ("meting" API | "local" 本地)
-    mode: "meting"
+    mode: "local"
     # meting 模式专属配置
     meting:
         # Meting API 地址
@@ -437,7 +437,7 @@ musicPlayer:
                 id: 1
                 title: "Twilight"
                 artist: "等离子天啓"
-                cover: "https://i2.hdslb.com/bfs/face/9cb077205e406c1bb013661d782bc656034f5265.jpg@128w_128h_1c_1s.webp"
+                cover: "https://i2.hdslb.com/bfs/face/9cb077205e406c1bb013661d782bc656034f5265.jpg"
                 url: "assets/music/Twilight.mp3"
                 lrc: "assets/music/Twilight.lrc"
                 duration: 262
